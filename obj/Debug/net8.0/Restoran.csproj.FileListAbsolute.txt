@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\bin\Debug\net8.0\Restoran.exe
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\bin\Debug\net8.0\Restoran.deps.json
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\bin\Debug\net8.0\Restoran.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\bin\Debug\net8.0\Restoran.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\bin\Debug\net8.0\Restoran.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.sourcelink.json
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\refint\Restoran.dll
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.pdb
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\Restoran.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\İş masası\Task\Restoran\obj\Debug\net8.0\ref\Restoran.dll
